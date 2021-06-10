@@ -5,7 +5,8 @@
 }
 
 .checkoutProduct__info {
-    padding-left: 20px
+    padding-left: 20px;
+    margin-top: 40px;
 }
 
 .checkoutProduct__info > button {
